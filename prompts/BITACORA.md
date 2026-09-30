@@ -29,7 +29,7 @@ Herramienta de IA usada: Gemini
 ## Ejercicio 5: Descomposicion
 
 - *Paso 1:* Listo los 5 requisitos principales (Gestion de Productos, Control de Stock, Registro de Ventas, Alertas y Reportes).
-- *Paso 2:* Diseno las clases Producto, Inventario y Venta especificando atributos y tipos de datos.
+- *Paso 2:* Diseño las clases Producto, Inventario y Venta especificando atributos y tipos de datos.
 - *Paso 3:* Escribio el codigo de la clase Producto.java limpio con encapsulamiento, constructor y metodos get y set.
 - *Paso 4:* Propuso 3 mejoras: validacion de datos en setters, metodo toString() e ID autoincremental.
 
